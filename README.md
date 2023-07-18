@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhankar2604
+- 👋 Hi, I’m Shubhankar Bhattacharya
 - 👀 I’m interested in ... Data Science, Analysis and Python Development
 - 🏫 I'm pursuing the course ... Computer Science Engineering with Data Science
 - 🌱 I’m currently pursuing ... Data Science
