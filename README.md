@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shubhankar Bhattacharya
 - 👀 I’m interested in ... Data Science, Analysis and Python Development
-- 🏫 I'm pursuing the course ... Computer Science Engineering with Data Science
+- 🏫 Bachelor of Engineering (B.E.) from Vidyavardhini's College of Engineering and Technology, Vasai
+- 📚 I'm pursuing the course ... Computer Science Engineering with Data Science
 - 🌱 I’m currently pursuing ... Data Science
 - 📑 I'm enrolled with Majors in ... Artificial Intelligence and Machine Learning
 - 📫 How to reach me ... shubhankar2604@gmail.com
