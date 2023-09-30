@@ -5,6 +5,7 @@
 - 🌱 I’m currently pursuing ... Data Science
 - 📑 I'm enrolled with Majors in ... Artificial Intelligence and Machine Learning
 - 📫 How to reach me ... shubhankar2604@gmail.com
+- 🌍 My LinkedIn Profile ... https://www.linkedin.com/in/shubhankar-bhattacharya-bb1667220/
 
 <!---
 shubhankar2604/shubhankar2604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
